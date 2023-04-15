@@ -7,6 +7,14 @@
 
 ESP32代码开源地址：https://github.com/literem/led-matrix-esp32
 
+立创开源硬件平台：https://oshwhub.com/cyaroge/dz_16-n_control#P6
+
+### 更新说明
+
+##### 2023.4.16
+
+原来的点阵底板R8电阻封装出错，导致电源短路，已修改该问题。如果发现短路，可以用小刀刮掉R8电阻旁边的覆铜层再上电
+
 
 
 ### 硬件实物图
